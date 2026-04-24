@@ -32,6 +32,7 @@ All classes are covered with unit tests achieving **100% test coverage** (HTML c
 
 ## Project Structure
 
+```bash
 Stellar-Burgers-Unit-Tests/
     ├── README.md
     ├── praktikum.py
@@ -44,6 +45,8 @@ Stellar-Burgers-Unit-Tests/
     │   └── ingredient_types.py
     └── tests/
         └── burger_test.py
+
+``` 
 
 ## Setup & Installation
 
